@@ -2,7 +2,7 @@
 
 ## Jetzt
 - [ ] Zielbranchen festlegen (Vorschlag: Handwerk/Bau, Gebäudetechnik, Gastro, Detailhandel)
-- [ ] Pilotpaket definieren → `angebot/pakete.md`
+- [x] Pilotpaket-Entwurf → `angebot/pakete.md` (Preise noch bestätigen)
 - [ ] 20 erste Leads im Kt. Schwyz sammeln (LENA/Yousty: Betriebe mit offenen Lehrstellen) → `akquise/leads.csv`
 - [ ] Erstkontakt-Mail & Anrufleitfaden schreiben → `akquise/vorlagen/`
 - [ ] 5–10 Validierungsgespräche mit KMU führen, Erkenntnisse in `recherche/kmu-gespraeche.md`
