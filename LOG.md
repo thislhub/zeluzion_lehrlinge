@@ -14,3 +14,9 @@
 - Paket-Entwurf v0.1 → `angebot/pakete.md`: Pilot CHF 1'900, Saison CHF 3'900, Abo CHF 590/Mt., Add-ons, Idee Erfolgsbonus.
 - Nutzenargument: Ø Nettonutzen EFZ-Lehre ~CHF 13'900 (SBFI).
 - Offen: Stundensatz, wer postet, Erfolgsbonus, Pilotbranchen.
+
+## 2026-10-09 (4)
+- Entscheid: CHF 90/h, Aufwand = Drehstunden × 3, Betrieb postet selbst, kein Erfolgsbonus, Fokus Handwerk (alle anfragen) → `entscheidungen/2026-10-09-preise-und-modell.md`.
+- Pakete v0.2: A ½ Tag CHF 1'350 (Pilot 990), B 1 Tag CHF 2'700, C Abo CHF 480/Mt.
+- Vorlagen Erstkontakt-Mail + Anrufleitfaden → `akquise/vorlagen/`.
+- Nächster Schritt: 20 Leads sammeln, Demo-Video.

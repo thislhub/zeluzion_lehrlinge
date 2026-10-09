@@ -1,11 +1,13 @@
 # TODO (priorisiert)
 
 ## Jetzt
-- [ ] Zielbranchen festlegen (Vorschlag: Handwerk/Bau, Gebäudetechnik, Gastro, Detailhandel)
-- [x] Pilotpaket-Entwurf → `angebot/pakete.md` (Preise noch bestätigen)
+- [x] Zielbranchen: Fokus Handwerk, aber alle anfragen
+- [x] Pakete v0.2 mit CHF 90/h → `angebot/pakete.md`
 - [ ] 20 erste Leads im Kt. Schwyz sammeln (LENA/Yousty: Betriebe mit offenen Lehrstellen) → `akquise/leads.csv`
-- [ ] Erstkontakt-Mail & Anrufleitfaden schreiben → `akquise/vorlagen/`
+- [x] Erstkontakt-Mail & Anrufleitfaden → `akquise/vorlagen/`
 - [ ] 5–10 Validierungsgespräche mit KMU führen, Erkenntnisse in `recherche/kmu-gespraeche.md`
+
+- [ ] Beispielvideo/Demo für Akquise (eigener Betrieb oder Bekannte)
 
 ## Danach
 - [ ] 1–2 Pilotkunden gewinnen (Vorzugspreis gegen Referenz + Messdaten)

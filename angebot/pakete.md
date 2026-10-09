@@ -1,78 +1,62 @@
-# Angebot & Pakete (ENTWURF v0.1)
+# Angebot & Pakete (v0.2)
 
-Stand: 2026-10-09 · Status: **Entwurf – Preise noch nicht bestätigt** (Annahmen unten prüfen)
+Stand: 2026-10-09 · Basis: [Entscheid Preise & Modell](../entscheidungen/2026-10-09-preise-und-modell.md) (CHF 90/h, Total = Drehstunden × 3, Betrieb postet selbst)
 
-## 1. Nutzenargument in Franken (für Verkaufsgespräch)
+## 1. Nutzenargument in Franken
 | Was eine besetzte Lehrstelle dem Betrieb bringt | CHF | Quelle |
 |---|---|---|
-| Ø Nettonutzen 3-jährige EFZ-Lehre (produktive Leistung – Ausbildungskosten) | ~13'900 | [SBFI, 5. Kosten-Nutzen-Erhebung](https://www.sbfi.admin.ch/de/newnsb/Bi48pNeH01vsTuQx-M0WJ) |
+| Ø Nettonutzen 3-jährige EFZ-Lehre | ~13'900 | [SBFI, 5. Kosten-Nutzen-Erhebung](https://www.sbfi.admin.ch/de/newnsb/Bi48pNeH01vsTuQx-M0WJ) |
 | Ø Nettonutzen 2-jährige EBA-Lehre | ~9'600 | ebd. |
-| Eingesparte Rekrutierungs-/Einarbeitungskosten bei Weiterbeschäftigung | ~10'700 | [Die Volkswirtschaft (Gehret/Schweri)](https://edudoc.ch/record/207268/files/die-volkswirtschaft-gehret-schweri_d.pdf) |
-| **→ Wert einer besetzten EFZ-Lehrstelle (grob)** | **~15'000–25'000** | Annahme: Summe, falls Übernahme |
+| Eingesparte Rekrutierungskosten bei Übernahme | ~10'700 | [Gehret/Schweri](https://edudoc.ch/record/207268/files/die-volkswirtschaft-gehret-schweri_d.pdf) |
 
-**Pitch-Satz**: «Eine unbesetzte Lehrstelle kostet Sie über die Lehrzeit gut CHF 14'000 entgangenen Nutzen. Unser Paket kostet einen Bruchteil davon – wenn es eine einzige Lehrstelle füllt, hat es sich mehrfach bezahlt.»
-
-Wichtig: Maler und Elektroinstallateure haben den höchsten Nettonutzen, Hotelfach und Informatik den tiefsten ([SRF](https://www.srf.ch/news/wirtschaft/erhebung-in-betrieben-lehrlinge-bringen-3000-franken-pro-jahr-ein)) → **Handwerk zuerst ansprechen.**
+**Pitch**: «Eine unbesetzte Lehrstelle kostet Sie über die Lehrzeit rund CHF 14'000 entgangenen Nutzen. Unser Einstiegspaket kostet ein Zehntel davon.»
+Höchster Nettonutzen: Maler, Elektroinstallateure ([SRF](https://www.srf.ch/news/wirtschaft/erhebung-in-betrieben-lehrlinge-bringen-3000-franken-pro-jahr-ein)) → Handwerk priorisieren.
 
 ## 2. Pakete
 
-### A) Pilot «Lehrstellen-Start» – nur für 2–3 Pilotkunden
-Ziel: Referenzen + Messdaten sammeln, Ablauf testen.
-- Kickoff (60 Min., vor Ort): Berufe, Lernende, Kultur, Hook-Ideen
-- ½–1 Drehtag mit 2–3 Lernenden + Ausbilder:in
-- **8 Shorts** (TOFU/MOFU/BOFU-Mix gemäss [Playbook](../produktion/shortform-playbook.md)), je für TikTok/Reels/Shorts exportiert
-- 1 Lehrstellen-Video 60–90 s (Yousty, LENA, Website, Infoabende)
-- Posting-Plan für 6 Wochen inkl. Captions, Keywords, Hook-Texte
-- Einverständniserklärungen (Vorlage)
-- Report nach 6 Wochen (Views, Anfragen, Schnupperanmeldungen)
-- **Preis Pilot: CHF 1'900** (statt 2'900) – Gegenleistung: Referenz, Case Study, Zugang zu den Zahlen
+### A) «Lehrstellen-Start» – ½ Drehtag
+- Kickoff (in Planung enthalten): Berufe, Lernende, Hook-Ideen, Drehplan
+- 5 h Dreh mit 2–3 Lernenden + Ausbilder:in
+- **6 Shorts** (Mix Reichweite/Vertrauen/Handlung gemäss [Playbook](../produktion/shortform-playbook.md)), exportiert für TikTok, Reels, Shorts
+- **1 Lehrstellen-Video** 60–90 s (Yousty, LENA, Website, Infoabende)
+- **Posting-Plan** 6 Wochen: Reihenfolge, Captions, Keywords, Hook-Texte – der Betrieb postet selbst
+- Vorlage Einverständniserklärung
+- Aufwand 15 h × CHF 90 = CHF 1'350
+- **Preis: CHF 1'350**
+- **Pilotpreis (erste 2–3 Kunden): CHF 990** gegen Referenz, Case Study und Zugang zu den Zahlen (Insights-Screenshots nach 6 Wochen)
 
-### B) «Lehrstellen-Saison» – Standardpaket
-Alles aus A, plus:
-- **12 Shorts** statt 8, je 2–3 Hook-Varianten der stärksten Videos
-- Kanal-Check / Setup (TikTok + Instagram Business, Bio, Link, Highlight)
-- **Boost-Setup**: die 2–3 besten Videos als Spark Ad / Partnership Ad (Jugendliche: Geo + Alter) + 1 Eltern-Ad
-- 2 Reports (nach 4 und 10 Wochen)
-- **Preis: CHF 3'900** + Werbebudget direkt an Plattform (Empfehlung CHF 300–600)
+### B) «Lehrstellen-Saison» – 1 Drehtag
+- Alles aus A, aber 10 h Dreh
+- **12 Shorts** + 2–3 Hook-Varianten der stärksten Videos + 1 Lehrstellen-Video
+- Kanal-Check (Bio, Link, Highlights) – Umsetzung durch den Betrieb nach unserer Checkliste
+- Aufwand 30 h × CHF 90 = CHF 2'700
+- **Preis: CHF 2'700**
 
 ### C) «Lehrstellen-Jahr» – Abo
-- 2 Drehtage/Jahr (Herbst = Hauptsaison Lehrstellensuche, Frühling = Restplätze/Schnupperwochen)
-- 24 Shorts/Jahr + 2 Lehrstellen-Videos
-- Monatlicher Posting-Plan + Quartalsreport
-- **Preis: CHF 590/Monat** (12 Monate) = CHF 7'080/Jahr
+- 2 Drehtage/Jahr (Herbst = Hauptsaison, Frühling = Restplätze/Schnupperwochen) = 2 × Paket B
+- Quartals-Check-in (1 h): Zahlen anschauen, nächste Videos planen
+- Aufwand 60 h + 4 h = 64 h = CHF 5'760
+- **Preis: CHF 480/Monat** (12 Monate) – Vorteil Kunde: planbar; Vorteil Zeluzion: wiederkehrender Umsatz
 
-### Add-ons
-| Add-on | Preis (Entwurf) |
-|---|---|
-| Posting-Service (wir laden hoch & planen, pro Monat) | CHF 290 |
-| Workshop «Lernende filmen selbst» (2–3 h, Smartphone, Hooks, Regeln) | CHF 490 |
-| Ads-Management (pro Kampagne, exkl. Budget) | CHF 250 |
-| Zusätzliche Shorts aus vorhandenem Material | CHF 120/Stk. |
-| Drohne / Spezialequipment | nach Aufwand |
+### Add-ons (stundenbasiert)
+| Add-on | Aufwand | Preis |
+|---|---|---|
+| Workshop «Lernende filmen selbst» (Smartphone, Hooks, Regeln) | 2 h + 2 h Vorb. | CHF 360 |
+| Ads-Setup: Betrieb erstellt Spark-Ad-Code, wir richten Kampagne ein (Geo + Alter), **kein Account-Zugriff nötig** | 2 h | CHF 180 + Werbebudget |
+| Auswertung nach 6 Wochen (Report + Empfehlungen) | 1,5 h | CHF 135 |
+| Zusätzliche Shorts aus vorhandenem Material | ~1 h | CHF 90/Stk. |
+| Posting-Coaching (Call mit der verantwortlichen Person) | 1 h | CHF 90 |
+| Anfahrt ausserhalb Kt. Schwyz | | nach Aufwand |
 
-### Option «Erfolgsbonus» (Idee, noch nicht entschieden)
-Tieferer Grundpreis (z. B. –20 %) + **CHF 500 pro unterschriebenem Lehrvertrag**, der nachweislich über unsere Videos kam (Tracking: «Wie hast du uns gefunden?» + Codewort/QR). Vorteil: senkt die Kaufhürde, ist ein starkes Verkaufsargument. Risiko: Zuordnung, Abhängigkeit vom Kunden.
+## 3. Kalkulations-Check
+- A: 5 h Dreh + 10 h Planung/Schnitt. Davon ~2 h Kickoff/Konzept, ~1 h Posting-Plan → ~7 h Schnitt für 6 Shorts + 1 Langvideo. **Knapp, aber machbar mit Vorlagen.**
+- B: 10 h Dreh + 20 h → ~16 h Schnitt für 12 Shorts + Varianten + Langvideo.
+- **Risiko**: Wenn der Schnitt pro Short > 1 h braucht, sinkt der effektive Stundensatz. → Nach dem Pilot die echten Stunden erfassen (`produktion/zeiterfassung` o. ä.) und Preise anpassen.
+- **Hebel**: Untertitel-/Intro-Vorlagen, Batch-Schnitt, gleiche Formate für mehrere Kunden.
+- Marktvergleich: Fertige Kurzclips CH ab ~CHF 3'000 ([Fairpicture](https://help.fairpicture.org/support/solutions/articles/101000497520)) → wir sind klar günstiger, KMU-tauglich.
 
-## 3. Interne Kalkulation (Annahmen – bitte prüfen!)
-Aufwand Paket A (8 Shorts + 1 Langvideo):
-| Schritt | Stunden |
-|---|---|
-| Kickoff, Konzept, Hooks, Drehplan | 4 |
-| Dreh (inkl. An-/Abreise, Aufbau) | 6–8 |
-| Schnitt 8 Shorts (à ~1,25 h) | 10 |
-| Schnitt Langvideo | 4 |
-| Untertitel, Exporte, Posting-Plan | 3 |
-| Report | 2 |
-| **Total** | **~29–31 h** |
-
-- Bei Ziel-Stundensatz **CHF 100** → Kosten ~CHF 3'000 → Paket A regulär CHF 2'900 knapp kostendeckend, **Pilot CHF 1'900 = bewusste Investition** in Referenzen.
-- Paket B (~40–45 h) → CHF 3'900 ≈ CHF 90–100/h.
-- **Hebel für Marge**: Formate standardisieren, Vorlagen (Untertitel, Intros), Batch-Schnitt, mehrere Kunden derselben Branche.
-- Marktvergleich: Fertige Kurzclips CH ab ~CHF 3'000–4'800 ([Fairpicture](https://help.fairpicture.org/support/solutions/articles/101000497520)); Freelance-Kamera 500–900 EUR/Tag. → Unsere Preise liegen im unteren bis mittleren Bereich. Das ist bewusst KMU-tauglich, darf aber nicht unter die Kosten fallen.
-
-## 4. Offene Entscheidungen
-- [ ] Stundensatz / Tagessatz von Zeluzion bestätigen
-- [ ] Wer postet? (Kunde selbst vs. Posting-Service als Standard)
-- [ ] Erfolgsbonus ja/nein
-- [ ] Anzahl Pilotkunden und Branchen
-- [ ] Rechtliche Vorlage Einverständnis Minderjährige (Juristen/Verband prüfen lassen)
+## 4. Da der Betrieb selbst postet – wie sichern wir die Wirkung?
+- Posting-Plan so einfach wie möglich (Datum, Datei, Caption zum Kopieren)
+- 1 verantwortliche Person beim Betrieb definieren (oft Lernende selbst oder Berufsbildner:in)
+- Reminder-Mail nach 2 Wochen, ob gepostet wird (gratis, Kundenpflege)
+- Add-on Posting-Coaching anbieten
