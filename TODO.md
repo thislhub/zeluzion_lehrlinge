@@ -10,11 +10,13 @@
 ## Danach
 - [ ] 1–2 Pilotkunden gewinnen (Vorzugspreis gegen Referenz + Messdaten)
 - [ ] Einverständniserklärung für Dreh mit Minderjährigen → `produktion/`
-- [ ] Drehformat-Katalog (Hooks, Formate, Ablauf Drehtag) → `produktion/formate.md`
+- [x] Shortform-Recherche 2026 → `recherche/shortform-2026.md` + Playbook `produktion/shortform-playbook.md`
+- [ ] Playbook mit Pilotdaten validieren
 - [ ] Kontakt Gewerbeverband Schwyz & Amt für Berufsbildung SZ
 - [ ] Musterreel / Demo-Video für Akquise
 
 ## Recherche offen
+- [ ] JAMES 2024 Plattformwerte, TH-OWL-Masterarbeit, Musikrechte Business-Accounts
 - [ ] Aktuelle Zahl Lehrbetriebe / offene Lehrstellen Kt. Schwyz
 - [ ] Fördermöglichkeiten (Berufsbildungsfonds etc.)
 - [ ] Preise lokaler Konkurrenz
