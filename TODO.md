@@ -6,7 +6,6 @@
 - [ ] 20 erste Leads im Kt. Schwyz sammeln (LENA/Yousty: Betriebe mit offenen Lehrstellen) → `akquise/leads.csv`
 - [x] Erstkontakt-Mail & Anrufleitfaden → `akquise/vorlagen/`
 - [ ] 5–10 Validierungsgespräche mit KMU führen, Erkenntnisse in `recherche/kmu-gespraeche.md`
-
 - [ ] Beispielvideo/Demo für Akquise (eigener Betrieb oder Bekannte)
 
 ## Danach
@@ -15,7 +14,6 @@
 - [x] Shortform-Recherche 2026 → `recherche/shortform-2026.md` + Playbook `produktion/shortform-playbook.md`
 - [ ] Playbook mit Pilotdaten validieren
 - [ ] Kontakt Gewerbeverband Schwyz & Amt für Berufsbildung SZ
-- [ ] Musterreel / Demo-Video für Akquise
 
 ## Recherche offen
 - [ ] JAMES 2024 Plattformwerte, TH-OWL-Masterarbeit, Musikrechte Business-Accounts
